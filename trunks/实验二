@@ -1,0 +1,9 @@
+本次实验主要介绍了liunx桌面、Terminal和shell的一些概念，以及一些常用的命令和工具。
+常用命令如下：
+Tab     补全命令或目录或文件
+ctrl+z  将当前程序放到后台运行，恢复到前台命令为fg
+ctrl+s  暂停当前程序，按任意键恢复
+ctrl+d  键盘输入结束或退出终端
+输出图形字符工具：
+banner
+printerbanner
